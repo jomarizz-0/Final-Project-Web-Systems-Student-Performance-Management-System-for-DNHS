@@ -29,7 +29,6 @@ background-attachment: fixed;
 background-repeat: no-repeat;
 }
 
-/* ── Background grid ── */
 body::before {
 content: '';
 position: fixed;
